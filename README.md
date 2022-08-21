@@ -25,7 +25,7 @@
         margin-left: 3px;"
     src = "resources/channel.jpg">
 
--   Engeneer Student :books:
+-   Engineer Student :books:
 
 ###  ...more? :point_down:
 
