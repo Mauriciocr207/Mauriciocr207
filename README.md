@@ -11,7 +11,9 @@ Web developer on the official [AEIF](https://aeifmx.com/) <img
         "widht: 20px;
         height: 20px;
         background-color: red;
-        object-fit: content;"
+        object-fit: content;
+        position: relative;
+        top: 3px;"
     src = "https://github.com/Mauriciocr207/Mauriciocr207/blob/faed3cac8ee7afeb43ef369f388cd5baf84eb1ce/resources/LOGO%20-%20AEIF.png">
 
 
