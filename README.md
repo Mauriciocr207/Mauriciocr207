@@ -6,9 +6,7 @@
 
 :v: I'm Mau and I´m a Physics Engineer Student from the [Universidad Autónoma De Yucatán](https://uady.mx). Now I´m cursing the 3th semester and I´m learning to code in different programming languages. 
 
-<h2 style= "
-    align: center;
-">Developing habilitities</h2>
+<h2 align= "center">Developing habilitities</h2>
 
  - Web developer on the official [AEIF](https://aeifmx.com/) <img 
     style = 
