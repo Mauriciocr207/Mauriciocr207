@@ -27,8 +27,6 @@
 
 -   Engineer Student :books:
 
-![GitHub Logo](https://github.com/Mauriciocr207/Mauriciocr207/blob/7198b44a5fcfc619e5eecc02afcd848b448fc263/resources/LOGO%20-%20AEIF.png)
-
 ###  ...more? :point_down:
 
 
