@@ -27,6 +27,8 @@
 
 -   Engineer Student :books:
 
+[GitHub Logo](resources/LOGO - AEIF.png)
+
 ###  ...more? :point_down:
 
 
