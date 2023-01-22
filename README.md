@@ -4,7 +4,7 @@
 <!-- Headings -->
 #   Hello Universe! :milky_way:  
 
-:v: I'm Mau and I´m a Physics Engineer Student from the [Universidad Autónoma De Yucatán](https://uady.mx). Now I´m cursing the 3th semester and I´m learning to code in different programming languages. 
+:v: I'm Mau and I´m a Physics Engineer Student from the [Universidad Autónoma De Yucatán](https://uady.mx). Now I´m cursing the 4th semester and I´m learning to code in different programming languages. 
 
 <h2 align= "center">Developing habilitities</h2>
 
