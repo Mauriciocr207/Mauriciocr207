@@ -1,6 +1,6 @@
 #   Hello Universe! :milky_way:  
 
-:v: I'm Mau and I´m a Physics Engineer Student from the [Universidad Autónoma De Yucatán](https://uady.mx). Now I´m cursing the 5th semester and I´m learning to code in different programming languages. 
+:v: I'm Mau and I´m a Physics Engineer Student from the [Universidad Autónoma De Yucatán](https://uady.mx). Now I´m cursing the 6th semester and I´m learning to code in different programming languages. 
 
 ## 👨🏼‍💻 Developing habilitities
 
