@@ -1,20 +1,18 @@
 #   Hello Universe! :milky_way:  
 
-:v: I'm Mau and I´m a Physics Engineer Student from the [Universidad Autónoma De Yucatán](https://uady.mx). Now I´m cursing the 7th semester and I´m learning to code in different programming languages. 
+👋 Hi, I'm Mau! I'm a Physics Engineering student at the Universidad Autónoma de Yucatán, currently in my 7th semester. I’m passionate about web programming, electronics, physics, and science.
 
-## 👨🏼‍💻 Developing habilitities
+## 👨🏼‍💻 Web knowledge
 
- - Web developer on the official [AEIF](https://aeifmx.com/) <img 
-    style = 
-        "widht: 20px;
-        height: 20px;
-        position: absolute;
-        margin-left: 2px;"
-    src = "resources/LOGO - AEIF.png">
-
--   Constantly learning :mag_right: :telescope: :microscope:
-
--   Engineer Student :books:
+ 
+ - [Next](https://github.com/Mauriciocr207/Curso-Next-Js) (CURSING...)
+ - [React](https://github.com/Mauriciocr207/Curso-React-Js)
+ - [TypeScript](https://github.com/Mauriciocr207/Curso-TypeScript).
+ - [70 JavaScript Interview Questions](https://github.com/Mauriciocr207/70-javascript-interview-questions)
+ - [JavaScript](https://github.com/Mauriciocr207/Curso-JavaScript)
+ - [Curso CSS](https://github.com/Mauriciocr207/Curso-CSS)
+ - [CSS/HTML/JS/PHP](https://github.com/Mauriciocr207/Curso-Web)
+ - [Git/GitHub](https://github.com/Mauriciocr207/Curso-Git-y-GitHub)
 
 ###  ...more? :point_down:
 
